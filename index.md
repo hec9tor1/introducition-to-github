@@ -1,3 +1,4 @@
+
 # Testing H1 Header
 ## Testing H2 Header
 ### Testing H3 Header
@@ -7,3 +8,9 @@
 
 ### Racoon 
 ![imagen of a racoon face](https://user-images.githubusercontent.com/110613852/183029167-0ee14f96-bca2-46ac-8576-1fa5ab02e19a.png)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
